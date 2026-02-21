@@ -1,0 +1,5 @@
+// NOTE: revisar validación de email
+// BUG: falla cuando el usuario no tiene rol
+// OPTIMIZE: reducir consultas a la BD
+// COMMENT: este endpoint es público
+// CHECK: confirmar lógica con backend
