@@ -57,3 +57,5 @@ function mostrarError(id, mensaje) {
     errorDiv.textContent = mensaje;
     errorDiv.style.display = 'block';
 }
+
+// COMMENT
